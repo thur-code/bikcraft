@@ -1,8 +1,4 @@
-# 🚲 Bikcraft
-
-## 🚀 Preview
-
-🔗 [Acesse o projeto online aqui](https://thur-code.github.io/bikcraft-origamid/)
+🔗 [Acesse o projeto online aqui](https://thur-code.github.io/bikcraft/)
 
 ![Preview do site](./print-site/img-1.png)
 
