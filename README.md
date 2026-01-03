@@ -1,33 +1,5 @@
 🔗 [Acesse o projeto online aqui](https://thur-code.github.io/bikcraft/)
 
-![Preview do site](./print-site/img-1.png)
-
----
-
-![Preview do site](./print-site/img-2.png)
-
----
-
-![Preview do site](./print-site/img-3.png)
-
----
-
-![Preview do site](./print-site/img-4.png)
-
----
-
-![Preview do site](./print-site/img-5.png)
-
----
-
-![Preview do site](./print-site/img-6.png)
-
----
-
-![Preview do site](./print-site/img-7.png)
-
----
-
 ## 🛠 Tecnologias utilizadas
 
 - **HTML5**
@@ -70,3 +42,31 @@ Durante a construção do projeto foram trabalhados:
 ## 📂 Status do projeto
 
 ✅ Concluído
+
+---
+
+![Preview do site](./print-site/img-1.png)
+
+---
+
+![Preview do site](./print-site/img-2.png)
+
+---
+
+![Preview do site](./print-site/img-3.png)
+
+---
+
+![Preview do site](./print-site/img-4.png)
+
+---
+
+![Preview do site](./print-site/img-5.png)
+
+---
+
+![Preview do site](./print-site/img-6.png)
+
+---
+
+![Preview do site](./print-site/img-7.png)
