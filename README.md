@@ -1,5 +1,7 @@
 🔗 [Acesse o projeto online aqui](https://thur-code.github.io/bikcraft/)
 
+---
+
 ## 🛠 Tecnologias utilizadas
 
 - **HTML5**
