@@ -1,9 +1,4 @@
-# 🚲 Bikcraft – Curso Origamid
-
-Projeto desenvolvido como parte do curso **[HTML e CSS para Iniciantes](https://www.origamid.com/curso/html-e-css-para-iniciantes/)** da Origamid.  
-O **Bikcraft** é um site fictício para uma empresa de **bicicletas personalizadas**, aplicado para consolidar todos os conceitos vistos no curso — desde a base de **HTML5** e **CSS3** até **responsividade, JavaScript**.
-
----
+# 🚲 Bikcraft
 
 ## 🚀 Preview
 
@@ -39,9 +34,9 @@ O **Bikcraft** é um site fictício para uma empresa de **bicicletas personaliza
 
 ## 🛠 Tecnologias utilizadas
 
-- **HTML5** (estrutura semântica)  
-- **CSS3** (Flexbox, Grid, responsividade, variáveis, utilitários)  
-- **JavaScript** (interações, parâmetros de URL, validação de formulários)
+- **HTML5**
+- **CSS3**
+- **JavaScript**
 
 ---
 
@@ -79,10 +74,3 @@ Durante a construção do projeto foram trabalhados:
 ## 📂 Status do projeto
 
 ✅ Concluído
-
----
-
-## 📝 Observações
-
-Este projeto foi desenvolvido **de forma guiada** durante o curso da Origamid, servindo como consolidação de todos os conteúdos estudados.  
-O design e a estrutura foram mantidos próximos ao exemplo do professor, com o objetivo de **aprender e fixar as bases de front-end**.
